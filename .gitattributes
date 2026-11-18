@@ -11,4 +11,4 @@
 
 # PowerShell scripts use CRLF
 *.ps1 text eol=crlf
-'@ | Set-Content -Path ".gitattributes" -Encoding ASCII
+'@
