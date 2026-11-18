@@ -1,0 +1,14 @@
+@'
+# Normalise text files across Windows and Linux
+* text=auto
+
+# Markdown documentation uses LF
+*.md text eol=lf
+
+# Windows scripts use CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# PowerShell scripts use CRLF
+*.ps1 text eol=crlf
+'@ | Set-Content -Path ".gitattributes" -Encoding ASCII
