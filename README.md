@@ -19,6 +19,8 @@ Working on proprietary game engine technology and supporting development tools a
 
 Build software with clear architecture, predictable behavior and long-term maintainability. Prioritise engineering quality over unnecessary complexity.
 
+All local development commits are cryptographically signed using SSH.
+
 ---
 
 *Engineering software from the ground up.*
