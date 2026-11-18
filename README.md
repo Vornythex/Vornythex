@@ -1,16 +1,24 @@
-## Hi there 👋
+# Vornythex
 
-<!--
-**Vornythex/Vornythex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems Programmer | C++ & Go | Game Engine Architecture | Developer Tooling**
 
-Here are some ideas to get you started:
+Independent software developer focused on systems programming, graphics technology, game engine architecture, and development infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Engineering Focus
+
+- **Systems Programming:** C++, Go, Windows and Linux
+- **Graphics Engineering:** DirectX 11, real-time rendering and engine architecture
+- **Developer Tooling:** Build systems, automation and development workflows
+- **Software Architecture:** Performance, reliability, maintainability and modular design
+
+### Current Development
+
+Working on proprietary game engine technology and supporting development tools at **Lighthouse Interactive**.
+
+### Development Philosophy
+
+Build software with clear architecture, predictable behavior and long-term maintainability. Prioritise engineering quality over unnecessary complexity.
+
+---
+
+*Engineering software from the ground up.*
